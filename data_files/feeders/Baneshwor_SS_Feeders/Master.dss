@@ -1,0 +1,92 @@
+
+New circuit.Baneshwor_SS
+! MVA= kVBase^2/Zsc
+Edit Vsource.Source BasekV=11 pu=1.05  MVASC3= 3025 MVASC1=1000
+
+
+!LINE CODES
+Redirect data_files\LineCode\LineCode.txt
+
+
+!SUBSTATION TRANSFORMER DEFINITION
+New Transformer.sub Buses=[SourceBus 100] Conns=[Delta Delta] kVs=[11 11] kVAs=[60000 60000] XHL=4 sub=y
+
+!Energy Meter to see the voltage distance curve
+
+!SUBSTATION BREAKER DEFINITION
+
+
+!LINE DEFINITIONS
+
+Redirect data_files\Lines\Lines_1.txt
+Redirect data_files\Lines\Lines_2.txt
+Redirect data_files\Lines\Lines_3.txt
+Redirect data_files\Lines\Lines_4.txt
+Redirect data_files\Lines\Lines_5.txt
+Redirect data_files\Lines\Lines_6.txt
+Redirect data_files\Lines\Lines_7.txt
+Redirect data_files\Lines\Lines_8.txt
+Redirect data_files\Lines\Lines_9.txt
+Redirect data_files\Lines\Lines_10.txt
+Redirect data_files\Lines\Lines_11.txt
+
+
+!SWITCH DEFINITION
+Redirect data_files\Switch_Lines\Switch_Lines_1.txt
+Redirect data_files\Switch_Lines\Switch_Lines_2.txt
+Redirect data_files\Switch_Lines\Switch_Lines_3.txt
+Redirect data_files\Switch_Lines\Switch_Lines_4.txt
+Redirect data_files\Switch_Lines\Switch_Lines_5.txt
+Redirect data_files\Switch_Lines\Switch_Lines_6.txt
+Redirect data_files\Switch_Lines\Switch_Lines_7.txt
+Redirect data_files\Switch_Lines\Switch_Lines_8.txt
+Redirect data_files\Switch_Lines\Switch_Lines_9.txt
+Redirect data_files\Switch_Lines\Switch_Lines_10.txt
+Redirect data_files\Switch_Lines\Switch_Lines_11.txt 
+
+!TRANSFORMER DEFINITION
+Redirect data_files\Xformers\Transformer_1.txt
+Redirect data_files\Xformers\Transformer_2.txt
+Redirect data_files\Xformers\Transformer_3.txt
+Redirect data_files\Xformers\Transformer_4.txt
+Redirect data_files\Xformers\Transformer_5.txt
+Redirect data_files\Xformers\Transformer_6.txt
+Redirect data_files\Xformers\Transformer_7.txt
+Redirect data_files\Xformers\Transformer_8.txt
+Redirect data_files\Xformers\Transformer_9.txt
+Redirect data_files\Xformers\Transformer_10.txt
+Redirect data_files\Xformers\Transformer_11.txt
+
+
+!LOAD DEFINITION
+
+Redirect data_files\Loads\Load_1.txt
+Redirect data_files\Loads\Load_2.txt
+Redirect data_files\Loads\Load_3.txt
+Redirect data_files\Loads\Load_4.txt
+Redirect data_files\Loads\Load_5.txt
+Redirect data_files\Loads\Load_6.txt
+Redirect data_files\Loads\Load_7.txt
+Redirect data_files\Loads\Load_8.txt
+Redirect data_files\Loads\Load_9.txt
+Redirect data_files\Loads\Load_10.txt
+Redirect data_files\Loads\Load_11.txt
+
+!MONITOR DEFINITION
+Redirect data_files\Load_Monitors\Monitor_1.txt
+Redirect data_files\Load_Monitors\Monitor_2.txt
+Redirect data_files\Load_Monitors\Monitor_3.txt
+Redirect data_files\Load_Monitors\Monitor_4.txt
+Redirect data_files\Load_Monitors\Monitor_5.txt
+Redirect data_files\Load_Monitors\Monitor_6.txt
+Redirect data_files\Load_Monitors\Monitor_7.txt
+Redirect data_files\Load_Monitors\Monitor_8.txt
+Redirect data_files\Load_Monitors\Monitor_9.txt
+Redirect data_files\Load_Monitors\Monitor_10.txt
+Redirect data_files\Load_Monitors\Monitor_11.txt
+
+
+Set voltagebases=[11  .4]
+Calcvoltagebases
+
+

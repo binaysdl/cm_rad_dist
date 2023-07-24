@@ -1,0 +1,1 @@
+New	Line.line_IM2_ss_ckt_bkr	Bus1=100	Bus2=107	phases=3  r1=1e-3 r0=1e-3 x1=0.000 x0=0.000 c1=0.000 c0=0.000 Length=1 Units=m

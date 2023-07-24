@@ -1,0 +1,2 @@
+New	Load.ICH_5028	phases=3	Bus1=5028load	kV=0.4	kW=1800	PF=0.9
+New	Load.ICH_5032	phases=3	Bus1=5032load	kV=0.4	kW=1134	PF=0.9

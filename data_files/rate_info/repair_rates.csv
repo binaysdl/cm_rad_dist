@@ -1,0 +1,7 @@
+Component,repair_rate_mu
+Line,0.25
+Transformer,0.2
+Load,0.5
+Vsource,1.0
+Isource,1.0
+Transformer.sub,1.0

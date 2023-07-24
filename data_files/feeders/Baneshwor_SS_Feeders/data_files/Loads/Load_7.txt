@@ -1,0 +1,1 @@
+New	Load.IM2_7062	phases=3	Bus1=7062load	kV=0.4	kW=360	PF=0.9

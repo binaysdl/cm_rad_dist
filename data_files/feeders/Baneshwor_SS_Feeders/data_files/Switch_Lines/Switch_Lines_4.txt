@@ -1,0 +1,4 @@
+New	Line.line_GOT_ss_ckt_bkr	Bus1=100	Bus2=104	phases=3  r1=1e-3 r0=1e-3 x1=0.000 x0=0.000 c1=0.000 c0=0.000 Length=1 Units=m
+
+New	Line.line_GOT_4001_4070	Bus1=4001	Bus2=4070	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=46.4591	Units=m
+New	Line.line_GOT_4001_4082	Bus1=4001	Bus2=4082	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=37.5776	Units=m

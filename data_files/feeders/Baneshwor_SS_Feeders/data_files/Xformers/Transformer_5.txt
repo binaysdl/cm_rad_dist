@@ -1,0 +1,2 @@
+New	Transformer.ICH_5028	phases=3	windings=2	Buses=[5028 5028load]	Conns=[Delta Wye]	kVs=[11 0.4]	kVAs=[2000 2000]	%loadloss=0	XHL=2.5	sub=y
+New	Transformer.ICH_5032	phases=3	windings=2	Buses=[5032 5032load]	Conns=[Delta Wye]	kVs=[11 0.4]	kVAs=[1260 1260]	%loadloss=0	XHL=2.5	sub=y

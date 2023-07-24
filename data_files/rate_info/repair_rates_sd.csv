@@ -1,0 +1,6 @@
+Component,repair_hour_sd
+Line,2.0
+Transformer,2.5
+Load,1.0
+Vsource,0.0
+Isource,0.0

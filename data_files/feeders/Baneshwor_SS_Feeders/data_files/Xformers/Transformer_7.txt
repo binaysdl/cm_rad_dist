@@ -1,0 +1,1 @@
+New	Transformer.IM2_7062	phases=3	windings=2	Buses=[7062 7062load]	Conns=[Delta Wye]	kVs=[11 0.4]	kVAs=[400 400]	%loadloss=0	XHL=2.5	sub=y

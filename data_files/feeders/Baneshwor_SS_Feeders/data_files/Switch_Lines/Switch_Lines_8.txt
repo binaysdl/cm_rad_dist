@@ -1,0 +1,10 @@
+New	Line.line_KOT_ss_ckt_bkr	Bus1=100	Bus2=108	phases=3  r1=1e-3 r0=1e-3 x1=0.000 x0=0.000 c1=0.000 c0=0.000 Length=1 Units=m
+
+New	Line.line_KOT_8001_8128	Bus1=8001	Bus2=8128	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=56.2094	Units=m
+
+New	Line.line_KOT_8218_8217	Bus1=8218	Bus2=8217	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=96.3252	Units=m
+New	Line.line_KOT_8218_8226	Bus1=8218	Bus2=8226	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=22.313	Units=m
+
+New	Line.line_KOT_8311_8239	Bus1=8311	Bus2=8239	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=23.6133	Units=m
+
+New	Line.line_KOT_8161_8366	Bus1=8161	Bus2=8366	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=12.0322	Units=m

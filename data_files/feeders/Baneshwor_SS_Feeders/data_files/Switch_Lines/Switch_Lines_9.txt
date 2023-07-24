@@ -1,0 +1,8 @@
+New	Line.line_LUB_ss_ckt_bkr	Bus1=100	Bus2=109	phases=3  r1=1e-3 r0=1e-3 x1=0.000 x0=0.000 c1=0.000 c0=0.000 Length=1 Units=m
+
+New	Line.line_LUB_9130_9131	Bus1=9130	Bus2=9131	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=170.847	Units=m
+New	Line.line_LUB_9180_9181	Bus1=9180	Bus2=9181	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=22.7899	Units=m
+
+New	Line.line_LUB_9233_9234	Bus1=9233	Bus2=9234	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=46.1295	Units=m
+
+New	Line.line_LUB_9233_9138	Bus1=9233	Bus2=9138	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=46.9616	Units=m

@@ -1,0 +1,9 @@
+New	Line.line_DHO_ss_ckt_bkr	Bus1=100	Bus2=103	phases=3  r1=1e-3 r0=1e-3 x1=0.000 x0=0.000 c1=0.000 c0=0.000 Length=1 Units=m
+
+New	Line.line_DHO_3087_3138	Bus1=3087	Bus2=3138	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=15.7868	Units=m
+New	Line.line_DHO_3087_3240	Bus1=3087	Bus2=3240	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=0.693565	Units=m
+
+New	Line.line_DHO_3032_3033	Bus1=3032	Bus2=3033	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=1.72862	Units=m
+New	Line.line_DHO_3032_3096	Bus1=3032	Bus2=3096	phases=3	Linecode=3p_11kV_100_ACSR_Al_o	Length=20.4883	Units=m
+
+New	Line.line_DHO_3088_3041	Bus1=3088	Bus2=3041	phases=3	Linecode=3p_11kV_200_XLPE_Al_o	Length=62.9193	Units=m
